@@ -1,0 +1,14 @@
+{
+    "dashboard":"dashboard.html",
+    "office":"office.html",
+    "emergency":"emergency.html",
+    "news":"news.html",
+    "blog":"blog.html",
+    "music":"music.html",
+    "video":"video.html",
+    "dhamma":"dhamma.html",
+    "ebook":"ebook.html",
+    "game":"game.html",
+    "app":"app.html",
+    "api":"api.html"
+}
