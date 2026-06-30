@@ -1,0 +1,7 @@
+{
+  "gateway": "https://tatkon-nine.vercel.app/",
+  "firebase": "https://tatkone-13cd1.firebaseio.com/",
+  "cache_days": 7,
+  "offline": true,
+  "theme": "light"
+}
