@@ -1,0 +1,7 @@
+{
+    "name":"Tatkon Admin",
+    "short_name":"TatKon",
+    "theme":"bootstrap5",
+    "offline":true,
+    "gateway":"github"
+}
